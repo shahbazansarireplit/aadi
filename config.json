@@ -7,82 +7,45 @@
     "autoClean": false,
     "adminOnly": false,
     "keyAdminOnly": "",
-    "commandDisabled": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-    ],
+    "commandDisabled": [],
     "eventDisabled": [],
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "𝙲𝚑𝚒𝚗𝚐𝚊𝚛𝚒🔥",
-    "PREFIX": "+",
-    "OTHERBOT": [
-        ""
-    ],
-    "UNSENTVIP": [
-        "100038374310301",
-        "100089747292304",
-        "100057959767370",
-        "",
-        "",
-        "100086141860679",
-        "100086141860679"
-    ],
-    "GOD": [
-        "100040426712109",
-        "100089747292304",
-        "100057959767370"
-    ],
+    "BOTNAME": "🌸==𒁍आदि बाबू",
+    "PREFIX": "#",
     "ADMINBOT": [
-        "100040426712109",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "100064584243077",
-        "100093221656574"
+        "100010492052172",
+        "100083551732772",
+        "100064584243077"
     ],
-    "OWNER": "ℙ𝕒𝕘𝕒𝕝 𝕔𝕙𝕠𝕣𝕒",
-    "AGE": "21",
-    "GENDER": "𝗠𝗮𝗟𝗲",
-    "FACEBOOK": "https://https://www.facebook.com/pagalchora143?mibextid=ZbWKwL?id=100038374310301",
+    "OWNER": "BROKEN AADI",
+    "AGE": "22",
+    "GENDER": "Male",
+    "FACEBOOK": "https://www.facebook.com/share/p/fN7ZWrff4AtFwovN/?mibextid=oFDknk",
     "AutoOffBot": "disable",
-    "AutoOffBotStartSleep": "disable",
+    "AutoOffBotStartSleep": "01:00",
     "AutoOffBotSendMessage": "Bye everyone. i need to sleep i'll be right back at 5:00AM 🥰",
-    "AutoOffBotEndSleep": "disable",
-    "AutoGreet": "disable",
+    "AutoOffBotEndSleep": "05:00",
+    "AutoGreet": "enable",
     "AutoGreetWithSticker": "enable",
     "AutoGreetSendPerHour": "1",
     "AutoPost": "disable",
-    "AutoPostText": "༻𝐎𝐖𝐍𝐄𝐑:- ☞ℙ𝕒𝕘𝕒𝕝 𝕔𝕙𝕠𝕣𝕒☜ ༺                                                 ༒𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 〠ℙurv〠.༒                                   ༒𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝༒:- ☞ https://www.facebook.com/pagalchora143?mibextid=ZbWKwL?id=100038374310301☜                                              ֎𝘍𝘰𝘳 𝘈𝘯𝘺 𝘒𝘪𝘯𝘥 𝘖𝘧 𝘏𝘦𝘭𝘱 :- https://t.me/Pagalchora001☜",
-    "AutoPostPerHour": "1",
+    "AutoPostText": "Whats up Guys (every 12 hours)",
+    "AutoPostPerHour": "12",
     "AutoPostGreet": "disable",
     "AutoPostGreetPostPerHour": "6",
     "AutoPostChristmasCountdown": "disable",
-    "HolidayAutoGreet": "disable",
+    "HolidayAutoGreet": "enable",
     "ChristmasCountdown": "disable",
-    "AcceptFriendRequest": "accept",
-    "AutoPendingGroupChat": "accept",
+    "AcceptFriendRequest": "enable",
+    "AutoPendingGroupChat": "disable",
     "AutoBioStatus": "enable",
     "AutoBioStatusSetPerHour": "1",
-    "BioStatus": "༻𝐎𝐖𝐍𝐄𝐑:- ☞ℙ𝕒𝕘𝕒𝕝 𝕔𝕙𝕠𝕣𝕒☜ ༺                                                  ༒𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 〠ℙurv〠.༒                                    ༒𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝༒:- ☞ https://www.facebook.com/pagalchora143?mibextid=ZbWKwL?id=100038374310301☜                                              ֎𝘍𝘰𝘳 𝘈𝘯𝘺 𝘒𝘪𝘯𝘥 𝘖𝘧 𝘏𝘦𝘭𝘱 :- https://t.me/Pagalchora001☜",
-    "AutoLeave": "enable",
-    "RandomRedditMemes": "enable",
+    "BioStatus": "https://www.facebook.com/100010492052172",
+    "AutoLeave": "disable",
+    "RandomRedditMemes": "disable",
     "RandomRedditMemesSendPerHour": "1",
-    "Randombibleverse": "disable",
     "Uptimelogs": true,
     "DATABASE": {
         "sqlite": {
@@ -96,9 +59,10 @@
         "pauseLog": true,
         "logLevel": "error",
         "selfListen": false,
+        "autoMarkRead": true,
         "userAgent": "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 OPR/84.0.4316.21"
     },
-    "version": "30.0.0",
+    "version": "1.2.14",
     "help": {
         "autoUnsend": "",
         "delayUnsend": 60
@@ -170,7 +134,7 @@
         "APIKEY": "Meew_Ov8SwxqVjUMUJafvxWAsdeac7YAUnr"
     },
     "play": {
-        "YOUTUBE_API": "18a322322amsh480550653b0f489p119066jsnaaeeeb9f7a54",
+        "YOUTUBE_API": "AIzaSyBtiD442srhczDpcg8xbhinP423BeUFXB8",
         "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
     },
     "video": {
@@ -211,28 +175,10 @@
     "bannerbw": {
         "APIKEY": "ntkhang"
     },
-    "messageforrealcreator": {
-        "enable": true
+    "allpic": {
+        "cooldownTime": 1200000
     },
-    "janu": {
-        "APIKEY": ""
-    },
-    "video2": {
-        "YOUTUBE_API": "AIzaSyDBOpnGGz225cPwHlJQs8OMRtxOjSUm73I"
-    },
-    "earn": {
-        "cooldownTime": 43200000
-    },
-    "video3": {
-        "YOUTUBE_API": "AIzaSyDC-PYP4E1bD2_RauVJBnTSkvUNxkxSQcc"
-    },
-    "surprise": {
-        "log": true,
-        "out": "",
-        "kickAll": "",
-        "delThread": ""
-    },
-    "sortword": {
-        "APIKEY": "Meew_kB5wRAlpHhrAj0GhRzmmLHesvvTbXE"
+    "leave": {
+        "status": true,
+        "number": 0
     }
-}
